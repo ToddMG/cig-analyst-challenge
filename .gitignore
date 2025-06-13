@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Random files
+go_agane.ipynb
+main.py
+CIG Revenue Analysis.pptx
+cig_data_challenge.ipynb
